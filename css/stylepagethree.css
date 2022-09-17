@@ -1,0 +1,42 @@
+body{
+    background-image: url("../images/DSC09823.jpg");
+    background-size: cover;
+    margin: 0%;
+    padding: 2.5% 7.5%;
+    position: relative;
+}
+
+.menu{
+    text-align: center;
+    align-items: center;
+    margin-top: 0px;
+    position: relative;
+}
+
+.menuitems{
+    color: white;
+    text-decoration: none;
+    font-size: 15.4px;
+    font-family: 'Montserrat';
+    transition-duration: 800ms;
+}
+
+.menuitems:hover{
+    color: mediumpurple;
+}
+
+hr{
+    width: 35%;
+    color: white;
+    border-color: white;
+    background-color: white;
+    border-radius: 2.5px;
+}
+
+.space{
+    color: #33333300;
+}
+
+.emphasys{
+    color: mediumpurple;
+}

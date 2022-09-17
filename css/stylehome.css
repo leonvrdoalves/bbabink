@@ -1,0 +1,135 @@
+body{
+    background-image: url("../images/DSC09790.jpg");
+    background-size: cover;
+    margin: 0%;
+    padding: 2.5% 7.5%;
+    position: relative;
+}
+
+.menu{
+    text-align: center;
+    align-items: center;
+    margin-top: 0px;
+    position: relative;
+}
+
+.menuitems{
+    color: white;
+    text-decoration: none;
+    font-size: 15.4px;
+    font-family: 'Montserrat';
+    transition-duration: 800ms;
+}
+
+.menuitems:hover{
+    color: mediumpurple;
+}
+
+hr{
+    width: 35%;
+    color: white;
+    border-color: white;
+    background-color: white;
+    border-radius: 2.5px;
+    position: relative;
+}
+
+.identity{
+    color: white;
+    font-family: 'Prata';
+    font-size: 90px;
+    text-align: right;
+    margin-bottom: 0%;
+}
+
+.about{
+    color: white;
+    font-family: 'Montserrat';
+    font-size: 15.4px;
+    text-align: right;
+    margin-bottom: 0%;
+}
+
+.orcamentodois{
+    color: white;
+    font-family: 'Montserrat';
+    font-size: 20px;
+    text-align: right;
+    margin-top: 0%;
+}
+
+.ilett{
+    color: white;
+    font-family: 'Montserrat';
+    font-size: 15.4px;
+    text-align: right;
+    margin-top: 0%;
+}
+
+
+.orcamento {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px 15px 10px 15px;
+    border: solid #ffffff 3px;
+    text-decoration: none;
+    float: right;
+    transition-duration: 800ms;
+  }
+  
+  .orcamento:hover {
+    text-decoration: none;
+    color: mediumpurple;
+    border-color: mediumpurple;
+    padding: 10px 15px 10px 15px;
+  }
+
+  .socials{
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    font-family: 'Montserrat';
+    transition-duration: 800ms;
+  }
+
+  .socials:hover{
+    color: mediumpurple;
+}
+
+.identify{
+    color: #333333;
+    text-decoration: none;
+    font-size: 15.4px;
+    font-family: 'Montserrat';
+    text-align: center;
+}
+
+.space{
+    color: #33333300;
+}
+
+.emphasys{
+    color: mediumpurple;
+}
+
+.content {
+    background-color: #e3f2fd00;
+    flex: 1;
+    padding: 20px;
+    margin-bottom: auto;
+}
+  
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 82%;
+  }
+
+.skin{
+    position: relative;
+  }
+  
